@@ -1,7 +1,7 @@
 ### Olá, meu nome é Henrique 👋
 
 - 🔭 Atualmente estou trabalhando como dev fullstack em uma Web API ASP.NET e como analista de suporte em um software .NET MVC
-- 🌱 Atualmente estou aprendendo C# com ReactJS
+- 🌱 Atualmente estou aprendendo C# em backend com ReactJS em frontend
 - ⚡ Um fato curioso: Sou engenheiro civil e trabalhei por 10 anos na área de projetos, obras, reformas e manutenção.
 
 <div style="display: inline_block">
