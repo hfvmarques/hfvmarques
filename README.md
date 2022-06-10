@@ -1,7 +1,7 @@
 ### Olá, meu nome é Henrique 👋
 
 - 🔭 Atualmente estou trabalhando como dev fullstack em uma Aplicação WEB RESTful construída em Ruby on Rails
-- 🌱 Atualmente estou aprendendo Ruby on Rails
+- 🌱 Atualmente estou aprendendo Ruby, com e sem Rails e JavaScript
 - ⚡ Um fato curioso: Sou engenheiro civil e trabalhei por 10 anos na área de projetos, obras, reformas e manutenção.
 
 <div style="display: inline_block">
