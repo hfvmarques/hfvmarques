@@ -4,11 +4,11 @@
 - 🌱 Atualmente estou aprendendo Ruby, com e sem Rails e JavaScript
 - ⚡ Um fato curioso: Sou engenheiro civil e trabalhei por 10 anos na área de projetos, obras, reformas e manutenção.
 
-<div style="display: inline_block">
+<!-- <div style="display: inline_block">
   <a href="https://github.com/hfvmarques">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hfvmarques&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hfvmarques&layout=compact&langs_count=7&theme=great-gatsby"/>
-</div>
+</div> -->
 <div style="display: inline_block"><br> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-plain.svg" />
