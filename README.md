@@ -1,8 +1,8 @@
 ### Olá, meu nome é Henrique 👋
 
 - De uma olhada nos [meus links](https://linktr.ee/hfvmarques)
-- 🔭 Atualmente estou trabalhando como dev backend Ruby on Rails e Nodejs
-- 🌱 Atualmente estou aprendendo Ruby, com e sem Rails e JavaScript
+- 🔭 Estou trabalhando como dev backend Ruby on Rails e Nodejs;
+- 🌱 No momento tentando aprender Godot;
 - ⚡ Um fato curioso: Sou engenheiro civil e trabalhei por 10 anos na área de projetos, obras, reformas e manutenção.
 
 <!-- <div style="display: inline_block">
